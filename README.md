@@ -1,5 +1,7 @@
 # Expense-Tracker-App-Images
 
+Project code is in private repository
+
 # ✨ Design
 
 <div align="center">
