@@ -3,7 +3,9 @@
 # ✨ Design
 
 <div align="center">
+
   <div>
+    <img width="720" height="1600" alt="Home Screes" src="https://github.com/user-attachments/assets/30617195-fac9-4139-85ac-90fb5e8d49e7" />
     <img src="https://github.com/user-attachments/assets/b20705d6-962d-4236-8d0e-acfb9eadbdf7" alt="Home Screen Without Premium" width="180"/>
     <img src="https://github.com/user-attachments/assets/15544f40-b880-4f84-8516-3c0cbf2b0919" alt="Home Screen With Premium" width="180"/>
     <img src="https://github.com/user-attachments/assets/01856637-08fe-4ae6-9864-7b1483b201a8" alt="Cotton Price List Screen" width="180"/>
